@@ -36,7 +36,7 @@ d. Tensors and Numpy<br>
 e. Using tf.function (a way to speed up regular python functions)<br>
 f. Using GPU's with Tensorflow (or TPU)<br>
 <hr>
-2. 02_neural_network_regression_with_TensorFlow
+<h4>2. 02_neural_network_regression_with_TensorFlow</h4>
 <hr>
 a. Introduction to Regression with Neural Networks in TensorFlow<br>
 b. Evaluating model<br>
@@ -44,7 +44,7 @@ c. Error metrics<br>
 d. Comparing results of our Experiments<br>
 e. Preprocessing data<br>
 <hr>
-3. 03_Neural_network_classification
+<h4>3. 03_Neural_network_classification</h4>
 <hr>
 a. Introduction to neural network classification with TensorFlow<br>
 b. Creating data to view and fit<br>
@@ -55,4 +55,25 @@ f. Plot the loss(or training) curves<br>
 g. Finding the ideal learning rate using **SemiLogx** plot<br>
 h. Building a multi-class classification model<br>
 i. What patterns is our model learning?<br>
+<hr>
+<h4>4. 04_Introduction_to_computer_vision_with_tensorfllow</h4>
+<hr>
+a. Introduction to Convolutional Neural Networks and Computer Vision with TensorFlow<br>
+b. Become one with the data<br>
+c. Preprocess the data<br>
+d. Create a CNN model<br>
+e. Adjusting the model parameters<br>
+f. Multi-Class Image Classification<br>
+g. Saving and loading our model<br>
+<hr>
+<h4>05_transfer_learning_in_tensorflow_feature_extraction<h4>
+<hr>
+a. Transfer Learning with TensorFlow : Feature Extraction<br>
+b. Downloading and becoming one with the data<br>
+c. Creating data loaders<br>
+d. Setting up callbacks<br>
+e. Creating models using TensorFlow Hub<br>
+f. Creating EfficientNetB0 TensorFlow Hub Feature Extraction model<br>
+g. Different types of transfer learning<br>
+h. Comparing our models results using TensorBoard<br>
 <hr>
