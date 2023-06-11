@@ -15,7 +15,7 @@ Node layers, which include an input layer, one or more hidden layers, and an out
 
 A **Neural Network for Regression** is a type of artificial neural network used to predict conotinuous values, such as prices or weights. Regression neural networks are similar to other ANNs, but optimized to predict values within a range, rather than classifying data into categories.
 <br><br>
-**Neural Network for Classification**<br>
+<h3>Neural Network for Classification</h3>
 Classification problem involves predicting if something belongs to one class or not. In other words, while doing it we try to see something is one thing or another.
 
 **Types of Classification**<br>
@@ -24,6 +24,14 @@ Suppose that you want to predict if a person has diabetes or not. İf you are fa
 Suppose that you want to identify if a photo is of a toy, a person, or a cat, right? this is called **Multi-class Classification** because there are more than two options.
 
 Suppose you want to decide that which categories should be assigned to an article. If so, it is called **Multi-label Classification**, because one article could have more than one category assigned.
+
+<h3>Computer Vision</h3>
+
+Computer vision is a field of Artificial Intelligence that trains computers to interpret and understand the visual world. It uses digital images, videos and other visual inputs to derive meaningful information and take actions or make recommendations based on that information.
+
+<img src='https://th.bing.com/th/id/OIP.zog5QUxbOq_rZka42hXQxgHaHa?pid=ImgDet&rs=1' alt='commputervision'/>
+
+
 
 <h2>Topics Covered</h2> 
 <hr>
@@ -66,7 +74,7 @@ e. Adjusting the model parameters<br>
 f. Multi-Class Image Classification<br>
 g. Saving and loading our model<br>
 <hr>
-<h4>05_transfer_learning_in_tensorflow_feature_extraction<h4>
+<h4>05_transfer_learning_in_tensorflow_feature_extraction</h4>
 <hr>
 a. Transfer Learning with TensorFlow : Feature Extraction<br>
 b. Downloading and becoming one with the data<br>
