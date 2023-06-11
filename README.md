@@ -14,6 +14,17 @@ Deep learning techniques are based on neural networks, sometimes referred to as 
 Node layers, which include an input layer, one or more hidden layers, and an output layer, make up artificial neural networks. Each artificial neuron, or node, is connected to another and has a weight and threshold that go with it. Any node whose output exceeds the defined threshold value is activated and begins providing data to the network's uppermost layer. Otherwise, no data is sent to the network's next tier.
 
 A **Neural Network for Regression** is a type of artificial neural network used to predict conotinuous values, such as prices or weights. Regression neural networks are similar to other ANNs, but optimized to predict values within a range, rather than classifying data into categories.
+<br><br>
+**Neural Network for Classification**<br>
+Classification problem involves predicting if something belongs to one class or not. In other words, while doing it we try to see something is one thing or another.
+
+**Types of Classification**<br>
+Suppose that you want to predict if a person has diabetes or not. İf you are facing this kind of situation, there are two possibilities. That is called **Binary Classification**.
+
+Suppose that you want to identify if a photo is of a toy, a person, or a cat, right? this is called **Multi-class Classification** because there are more than two options.
+
+Suppose you want to decide that which categories should be assigned to an article. If so, it is called **Multi-label Classification**, because one article could have more than one category assigned.
+
 <h2>Topics Covered</h2> 
 <hr>
 <h4>1. 01_tensorflow_fundamentals</h4>
@@ -32,4 +43,16 @@ b. Evaluating model<br>
 c. Error metrics<br>
 d. Comparing results of our Experiments<br>
 e. Preprocessing data<br>
+<hr>
+3. 03_Neural_network_classification
+<hr>
+a. Introduction to neural network classification with TensorFlow<br>
+b. Creating data to view and fit<br>
+c. Input and Output shapes<br>
+d. Steps in modelling<br>
+e. Improving our model<br>
+f. Plot the loss(or training) curves<br>
+g. Finding the ideal learning rate using **SemiLogx** plot<br>
+h. Building a multi-class classification model<br>
+i. What patterns is our model learning?<br>
 <hr>
