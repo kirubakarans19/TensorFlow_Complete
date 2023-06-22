@@ -1,1 +1,0 @@
-This folder contains all the neccessary functions that can be imported and used in all the notebooks.
