@@ -31,7 +31,9 @@ Computer vision is a field of Artificial Intelligence that trains computers to i
 
 <img src='https://th.bing.com/th/id/OIP.zog5QUxbOq_rZka42hXQxgHaHa?pid=ImgDet&rs=1' alt='commputervision'/>
 
+<h3>Transfer Learning</h3>
 
+Transfer Learning is a machine learning technique where a model developed for a specific task is reused as the starting point for a model on a second related task. Instead of training a model from scratch for the second task, you start with a pre-trained model that has already learned useful features or representations from a large dataset and then fine-tune it on new task.
 
 <h2>Topics Covered</h2> 
 <hr>
@@ -74,7 +76,7 @@ e. Adjusting the model parameters<br>
 f. Multi-Class Image Classification<br>
 g. Saving and loading our model<br>
 <hr>
-<h4>05_transfer_learning_in_tensorflow_feature_extraction</h4>
+<h4>5. 05_transfer_learning_in_tensorflow_feature_extraction</h4>
 <hr>
 a. Transfer Learning with TensorFlow : Feature Extraction<br>
 b. Downloading and becoming one with the data<br>
@@ -84,4 +86,17 @@ e. Creating models using TensorFlow Hub<br>
 f. Creating EfficientNetB0 TensorFlow Hub Feature Extraction model<br>
 g. Different types of transfer learning<br>
 h. Comparing our models results using TensorBoard<br>
+<hr>
+<h4>6. Transfer Learning with TensorFlow Part 2: Fine-tuning </h4>
+<hr>
+a. Creating a helper function<br>
+b. Building a trasfer learning feature extraction model using the Keras Functional API<br>
+c. Getting a feature from a trained model<br>
+d. Getting and preprocessing data for model<br>
+e. Adding data augmentation right into the model<br>
+f. Model 1: Feature Extraction tranfer learning model with 1% of data and data augmentation<br>
+g. Model 2: Feature Extraction transfer learning model with 10% of data and data augmentation<br>
+h. Model 3: Fine-tuning an existing model on 10% data<br>
+i. Model 4: Fine-tuning an exisiting mdoel on 100% data<br>
+j. Visualizing using TensorBoard<br>
 <hr>
